@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public int minMoves2(int[] nums) {
         /* by using arry.sort and sorting it first
