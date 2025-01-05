@@ -7,6 +7,6 @@ class Solution {
         int distanceY = yCenter - closestY;
         
 
-        return distanceX*distanceX + distanceY*distanceY <= radius*radius; // if > than, the circle doesn't overlap
+        return distanceX*distanceX + distanceY*distanceY <= radius*radius; // if > than, the circle doesn't overlap.
     }
 }
