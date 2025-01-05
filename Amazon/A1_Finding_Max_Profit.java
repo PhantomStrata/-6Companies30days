@@ -30,6 +30,6 @@ class Solution
             }
         }
 
-        return dp[k][n - 1];//final output
+        return dp[k][n - 1];//final answer
     }
 }
